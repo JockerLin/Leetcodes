@@ -1,9 +1,10 @@
 /*
  * author:	Lin Cunqin
  * version:	1.0
- * date:	2020.09.05
+ * date:	2020.10.16
  * copyright:	Copyright 2020, Blazar
- * description: xxx
+ * description: 给定一个按非递减顺序排序的整数数组 A，
+				返回每个数字的平方组成的新数组，要求也按非递减顺序排序。
 */
 
 #include <iostream>
@@ -11,8 +12,6 @@
 #include <algorithm>
 
 using namespace std;
-
-//给定一个按非递减顺序排序的整数数组 A，返回每个数字的平方组成的新数组，要求也按非递减顺序排序。
 
 namespace p977{
 	class Solution {

@@ -20,7 +20,13 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="977.h">
+    <ClInclude Include="practices\15.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="practices\977.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="practices\1.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

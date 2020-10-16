@@ -2,12 +2,17 @@
 //
 
 #include <iostream>
-#include "977.h"
+#include "practices/1.h"
+#include "practices/15.h"
+#include "practices/977.h"
 
 int main()
 {
     std::cout << "Hello World!\n";
-	validation977();
+	//validation977();
+	//validation15();
+	validation1();
+
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
