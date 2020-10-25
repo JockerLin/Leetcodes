@@ -32,5 +32,11 @@
     <ClInclude Include="practices\2.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="practices\845.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="practices\3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
