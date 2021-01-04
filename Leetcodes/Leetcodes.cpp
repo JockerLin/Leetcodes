@@ -8,8 +8,8 @@
 #include "practices/15.h"
 #include "practices/977.h"
 #include "practices/845.h"
-
-
+#include "practices/605.h"
+#include "practices/509.h"
 
 int main()
 {
@@ -19,9 +19,12 @@ int main()
 	//validation1();
 	//validation2();
 	//validation845();
-	validation3();
-	
+	//validation3();
+	//validation605();
+	validation509();
 }
+
+
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
 // 调试程序: F5 或调试 >“开始调试”菜单

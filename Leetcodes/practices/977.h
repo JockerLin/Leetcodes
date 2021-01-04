@@ -7,11 +7,7 @@
 				返回每个数字的平方组成的新数组，要求也按非递减顺序排序。
 */
 
-#include <iostream>
-#include <vector>
-#include <algorithm>
-
-using namespace std;
+#include "commoninclude.h"
 
 namespace p977{
 	class Solution {
